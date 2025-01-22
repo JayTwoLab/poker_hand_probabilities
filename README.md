@@ -46,6 +46,45 @@ added_cards = ["Extra_A1", "Extra_A2", "Extra_A3", "Extra_A4"]
 probabilities_added = calculate_poker_probabilities(added_cards=added_cards)
 ```
 
+- Result
+```
+--- Full Deck (52 cards) ---
+High Card: 50.117739%
+One Pair: 42.256903%
+Two Pair: 4.753902%
+Three of a Kind: 2.112845%
+Straight: 0.392465%
+Flush: 0.196540%
+Full House: 0.144058%
+Four of a Kind: 0.024010%
+Straight Flush: 0.001539%
+Royal Flush: 0.000154%
+
+--- Excluding QH, QD, QC, QS ---
+High Card: 24.291014%
+One Pair: 64.138144%
+Two Pair: 7.215541%
+Three of a Kind: 3.206907%
+Straight: 0.595689%
+Flush: 0.298312%
+Full House: 0.218653%
+Four of a Kind: 0.033405%
+Straight Flush: 0.002336%
+Royal Flush: 0.000234%
+
+--- Adding 4 extra Aces ---
+High Card: 66.059308%
+One Pair: 28.751123%
+Two Pair: 3.234501%
+Three of a Kind: 1.437556%
+Straight: 0.267029%
+Flush: 0.133724%
+Full House: 0.098015%
+Four of a Kind: 0.017697%
+Straight Flush: 0.001047%
+Royal Flush: 0.000105%****
+```
+
 ---
 
 #### How to Run
