@@ -19,7 +19,7 @@
    - `Full House` (풀하우스)
    - `Four of a Kind` (포카드)
    - `Straight Flush` (스트레이트 플러쉬)
-   - `Royal Flush` (로얄 스트레이트 플러쉬)  
+   - `Royal Straight Flush` (로얄 스트레이트 플러쉬)  
 
 2. **카드 제외 및 추가**  
    - 특정 카드를 덱에서 제외하거나 새로운 카드를 추가하여 확률을 다시 계산할 수 있습니다.
