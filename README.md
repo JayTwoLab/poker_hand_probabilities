@@ -10,16 +10,16 @@ This project is a Python program that calculates the probabilities of various po
 
 1. **Poker Probability Calculation**  
    Calculates probabilities for the following poker hands using a standard 52-card deck:
-   - High Card
-   - One Pair
-   - Two Pair
-   - Three of a Kind
-   - Straight
-   - Flush
-   - Full House
-   - Four of a Kind
-   - Straight Flush
-   - Royal Flush  
+   - `High Card`
+   - `One Pair`
+   - `Two Pair`
+   - `Three of a Kind`
+   - `Straight`
+   - `Flush`
+   - `Full House`
+   - `Four of a Kind`
+   - `Straight Flush`
+   - `Royal Straight Flush`  
 
 2. **Excluding and Adding Cards**  
    - Exclude specific cards from the deck or add new cards to recalculate probabilities.
