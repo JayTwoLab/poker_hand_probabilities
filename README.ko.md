@@ -1,4 +1,4 @@
-### `poker_hand_probabilities` : Poker 확률 계산기
+### `poker_hand_probabilities` : 포커(`Poker`) 확률 계산기
 
 > [English](README.md) , [Korean](README.ko.md)
 
